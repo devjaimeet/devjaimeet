@@ -50,15 +50,15 @@ Reach me at [dev.jaimeetspatel@gmail.com]
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="xd" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="xd" width="40" height="40"/> 
 
-
+### Media
+<hr/>
+<a href="https://devjaimeet.github.io/"><img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/button_resume.png" alt="Resume Download" height="40"/> </a>
 
 ### Connect with me:
 
 <p align="left">
 <a href="https://devjaimeet.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="devjaimeet" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/devjaimeet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="devjaimeet" height="30" width="40" /></a>
-
-
 <br />
 
 
