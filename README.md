@@ -7,7 +7,7 @@
 
 ## I'm a Web Programmer and Full Stack Developer!!
 
-- 🌱 I’m currently learning everything 🤣
+- <img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/cta-btn%201.png" alt="html5" height="40"/> 
 - :eyeglasses: I’m currently looking for Internship. 🤣
 - 👯 I’m looking to work in a meaningful and challenging position that allows me to develop myself as Web Programmer and have the scope for advancement.
 - 🥅 My 2021 Goals: Contribute more to Open Source projects
