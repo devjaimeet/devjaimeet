@@ -7,10 +7,23 @@
 
 ## I'm a Web Programmer and Full Stack Developer!!
 
-- <img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/cta-btn%201.png" alt="html5" height="40"/> 
-- :eyeglasses: I’m currently looking for Internship. 🤣
-- 👯 I’m looking to work in a meaningful and challenging position that allows me to develop myself as Web Programmer and have the scope for advancement.
-- 🥅 My 2021 Goals: Contribute more to Open Source projects
+<img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/cta-btn%201.png" alt="html5" height="40"/><img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/cta-btn%202.png" alt="html5" height="40"/> 
+<img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/cta-btn%203.png" alt="html5" height="40"/> 
+<img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/cta-btn%204.png" alt="html5" height="40"/> 
+<img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/cta-btn%205.png" alt="html5" height="40"/> 
+<img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/cta-btn%206.png" alt="html5" height="40"/> 
+<img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/cta-btn%207.png" alt="html5" height="40"/> 
+<img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/cta-btn%208.png" alt="html5" height="40"/> 
+<img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/cta-btn%209.png" alt="html5" height="40"/> 
+<img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/cta-btn%2010.png" alt="html5" height="40"/> 
+<img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/cta-btn%2011.png" alt="html5" height="40"/> 
+<img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/cta-btn%2012.png" alt="html5" height="40"/> 
+<img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/cta-btn%2013.png" alt="html5" height="40"/> 
+<img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/cta-btn%2014.png" alt="html5" height="40"/> 
+<img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/cta-btn%2015.png" alt="html5" height="40"/> 
+<img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/cta-btn%2016.png" alt="html5" height="40"/> 
+<img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/cta-btn%2017.png" alt="html5" height="40"/> 
+
 
 
 ### Connect with me:
