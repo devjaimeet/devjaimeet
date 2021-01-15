@@ -2,6 +2,7 @@
 
 [![Website](https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/new-btn-cta.png)](https://devjaimeet.github.io/)
 [![Website](https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/linkedin-btn-cta.png)](https://www.linkedin.com/in/devjaimeet/)
+[![Website](https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/email-btn.png)](mailto:dev.jaimeetspatel@gmail.com)
 
 
 ## I'm a Web Programmer and Full Stack Developer!!
