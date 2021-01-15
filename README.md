@@ -1,4 +1,5 @@
 # Dev. Jaimeet
+### Web Programmer & Full Stack Developer
 
 <a href="https://devjaimeet.github.io/"><img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/new-btn-cta.png" alt="Website" height="40"/></a>
 <a href="https://www.linkedin.com/in/devjaimeet/"><img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/linkedin-btn-cta.png" alt="Linkedin Link" height="40"/></a>
@@ -10,7 +11,7 @@ Let's build together!
 Feel free to connect and let me know!<br/>
 Reach me at [dev.jaimeetspatel@gmail.com]
 
-## I'm a Web Programmer and Full Stack Developer!!
+## Skills
 
 <img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/cta-btn%201.png" alt="skills" height="40"/><img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/cta-btn%202.png" alt="skills" height="40"/> 
 <img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/cta-btn%203.png" alt="skills" height="40"/> 
@@ -28,20 +29,7 @@ Reach me at [dev.jaimeetspatel@gmail.com]
 <img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/cta-btn%2015.png" alt="skills" height="40"/> 
 <img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/cta-btn%2016.png" alt="skills" height="40"/> 
 <img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/cta-btn%2017.png" alt="skills" height="40"/> 
-
-
-
-### Connect with me:
-
-<p align="left">
-<a href="https://devjaimeet.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="devjaimeet" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/devjaimeet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="devjaimeet" height="30" width="40" /></a>
-
-
-<br />
-
-### Skills:
-
+<br/>
 <p align="left"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -61,3 +49,16 @@ Reach me at [dev.jaimeetspatel@gmail.com]
 <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="xd" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="xd" width="40" height="40"/> 
+
+
+
+### Connect with me:
+
+<p align="left">
+<a href="https://devjaimeet.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="devjaimeet" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/devjaimeet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="devjaimeet" height="30" width="40" /></a>
+
+
+<br />
+
+
