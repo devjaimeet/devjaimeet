@@ -1,9 +1,14 @@
-### Hi there, I'm Jaimeet S. Patel 👋
+# Dev. Jaimeet
 
-[![Website](https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/new-btn-cta.png)](https://devjaimeet.github.io/)
-[![Website](https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/linkedin-btn-cta.png)](https://www.linkedin.com/in/devjaimeet/)
-[![Website](https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/email-btn.png)](mailto:dev.jaimeetspatel@gmail.com)
+<a href="https://devjaimeet.github.io/"><img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/new-btn-cta.png" alt="html5" height="40"/></a>
+<a href="https://www.linkedin.com/in/devjaimeet/"><img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/linkedin-btn-cta.png" alt="html5" height="40"/></a>
+<a href="mailto:dev.jaimeetspatel@gmail.com"><img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/email-btn.png" alt="html5" height="40"/></a>
 
+
+> I'm a Web Programmer and I love to dig deeper into the problems and solve them with a modern computer programming technology approach. I'm enthusiastic about growing and gaining new skills on my Web Developer journey. I have successfully completed my 4+ year journey of a web developer and learned a lot of new technologies.
+Let's build together!
+Feel free to connect and let me know!<br/>
+Reach me at [dev.jaimeetspatel@gmail.com]
 
 ## I'm a Web Programmer and Full Stack Developer!!
 
