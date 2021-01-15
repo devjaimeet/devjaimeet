@@ -1,8 +1,8 @@
 # Dev. Jaimeet
 
-<a href="https://devjaimeet.github.io/"><img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/new-btn-cta.png" alt="html5" height="40"/></a>
-<a href="https://www.linkedin.com/in/devjaimeet/"><img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/linkedin-btn-cta.png" alt="html5" height="40"/></a>
-<a href="mailto:dev.jaimeetspatel@gmail.com"><img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/email-btn.png" alt="html5" height="40"/></a>
+<a href="https://devjaimeet.github.io/"><img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/new-btn-cta.png" alt="Website" height="40"/></a>
+<a href="https://www.linkedin.com/in/devjaimeet/"><img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/linkedin-btn-cta.png" alt="Linkedin Link" height="40"/></a>
+<a href="mailto:dev.jaimeetspatel@gmail.com"><img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/email-btn.png" alt="Email Me" height="40"/></a>
 
 
 > I'm a Web Programmer and I love to dig deeper into the problems and solve them with a modern computer programming technology approach. I'm enthusiastic about growing and gaining new skills on my Web Developer journey. I have successfully completed my 4+ year journey of a web developer and learned a lot of new technologies.
@@ -12,22 +12,22 @@ Reach me at [dev.jaimeetspatel@gmail.com]
 
 ## I'm a Web Programmer and Full Stack Developer!!
 
-<img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/cta-btn%201.png" alt="html5" height="40"/><img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/cta-btn%202.png" alt="html5" height="40"/> 
-<img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/cta-btn%203.png" alt="html5" height="40"/> 
-<img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/cta-btn%204.png" alt="html5" height="40"/> 
-<img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/cta-btn%205.png" alt="html5" height="40"/> 
-<img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/cta-btn%206.png" alt="html5" height="40"/> 
-<img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/cta-btn%207.png" alt="html5" height="40"/> 
-<img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/cta-btn%208.png" alt="html5" height="40"/> 
-<img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/cta-btn%209.png" alt="html5" height="40"/> 
-<img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/cta-btn%2010.png" alt="html5" height="40"/> 
-<img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/cta-btn%2011.png" alt="html5" height="40"/> 
-<img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/cta-btn%2012.png" alt="html5" height="40"/> 
-<img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/cta-btn%2013.png" alt="html5" height="40"/> 
-<img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/cta-btn%2014.png" alt="html5" height="40"/> 
-<img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/cta-btn%2015.png" alt="html5" height="40"/> 
-<img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/cta-btn%2016.png" alt="html5" height="40"/> 
-<img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/cta-btn%2017.png" alt="html5" height="40"/> 
+<img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/cta-btn%201.png" alt="skills" height="40"/><img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/cta-btn%202.png" alt="skills" height="40"/> 
+<img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/cta-btn%203.png" alt="skills" height="40"/> 
+<img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/cta-btn%204.png" alt="skills" height="40"/> 
+<img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/cta-btn%205.png" alt="skills" height="40"/> 
+<img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/cta-btn%206.png" alt="skills" height="40"/> 
+<img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/cta-btn%207.png" alt="skills" height="40"/> 
+<img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/cta-btn%208.png" alt="skills" height="40"/> 
+<img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/cta-btn%209.png" alt="skills" height="40"/> 
+<img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/cta-btn%2010.png" alt="skills" height="40"/> 
+<img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/cta-btn%2011.png" alt="skills" height="40"/> 
+<img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/cta-btn%2012.png" alt="skills" height="40"/> 
+<img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/cta-btn%2013.png" alt="skills" height="40"/> 
+<img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/cta-btn%2014.png" alt="skills" height="40"/> 
+<img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/cta-btn%2015.png" alt="skills" height="40"/> 
+<img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/cta-btn%2016.png" alt="skills" height="40"/> 
+<img src="https://raw.githubusercontent.com/devjaimeet/devjaimeet/main/cta-btn%2017.png" alt="skills" height="40"/> 
 
 
 
